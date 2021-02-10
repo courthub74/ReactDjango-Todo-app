@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-
+//This is the component
 class App extends React.Component {
   constructor(props){
     super(props);
